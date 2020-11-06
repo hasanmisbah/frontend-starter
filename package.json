@@ -1,0 +1,45 @@
+{
+  "name": "frontend-starter-pack",
+  "version": "1.0.0",
+  "description": "Frontend Starter pack using parcel. included modern framework twitter bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/*.html",
+    "start": "parcel serve src/*.html"
+  },
+  "keywords": [
+    "starter",
+    "pack",
+    "frontend",
+    "starter",
+    "pack",
+    "parcel"
+  ],
+  "author": "Hasan Misbah <hasanmisbah01@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "autoprefixer": "^9.8.6",
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "fibers": "^5.0.0",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-clean-dist": "0.0.6",
+    "postcss": "^8.1.6",
+    "postcss-modules": "^3.2.2",
+    "prettier": "^2.1.2",
+    "sass": "^1.29.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3",
+    "include-media": "^1.4.9",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
