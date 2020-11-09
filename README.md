@@ -1,13 +1,15 @@
-# Parcel Starter
+# Frontend Starter
 > A Frontend starter template Using Modern Technology.
 
 ## Table of Contents
-- [Parcel Starter](#parcel-starter)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
     - [Core](#core)
     - [Frontend Framework](#frontend-framework)
-  - [List of Npm tasks](#list-of-npm-tasks)
+  - [Installation](#installation)
+  - [List of NPM tasks](#list-of-npm-tasks)
+  - [WIP](#wip)
+  - [Author](#author)
   - [License](#license)
 
 ## Features
@@ -31,10 +33,24 @@ This starter also features a number of great software (in the words of their cre
 * [jQuery](https://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
 * [Popper](https://popper.js.org/) - TOOLTIP & POPOVER POSITIONING ENGINE.
 
+## Installation
+Clone this Boilerplate
+> `git clone https://github.com/hasanmisbah/frontend-starer.git` <br> 
 
-## List of Npm tasks
+Or [Download](https://github.com/hasanmisbah/frontend-starer/archive/master.zip) This repo.
 
-To run separate task type in command line `npm run [task_name]`.
+install dependecny using `npm` or `yarn`
+> `npm install` or `yarn install`
+
+> run `rm -rf .git` to remove git
+
+> `git init` to init git again
+
+
+
+## List of NPM tasks
+
+> To run separate task type in command line `npm run [task_name]`.
 
 | Task name | Description                                        |
 | :-------- | :------------------------------------------------- |
@@ -42,6 +58,15 @@ To run separate task type in command line `npm run [task_name]`.
 | `build`   | build the app for production to the `dist` folder. |
 
 
+## WIP
+- [x] Image minify
+- [x] Css minify
+- [ ] Single Assets Compile
+- [ ] And Many more as needed
+
+
+## Author
+[Hasan Misbah](https://github.com/hasanmisbah01)
 
 ## License
 The code is available under the [MIT](https://hasan.mit-license.org/) license.
