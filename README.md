@@ -35,9 +35,9 @@ This starter also features a number of great software (in the words of their cre
 
 ## Installation
 Clone this Boilerplate
-> `git clone https://github.com/hasanmisbah/frontend-starer.git` <br> 
+> `git clone https://github.com/hasanmisbah/frontend-starter.git` <br> 
 
-Or [Download](https://github.com/hasanmisbah/frontend-starer/archive/master.zip) This repo.
+Or [Download](https://github.com/hasanmisbah/frontend-starter/archive/master.zip) This repo.
 
 install dependecny using `npm` or `yarn`
 > `npm install` or `yarn install`
