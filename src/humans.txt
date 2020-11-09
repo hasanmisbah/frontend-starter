@@ -1,0 +1,17 @@
+# The humans responsible & technology colophon
+# TEAM
+
+    Hasan Misbah -- Frontend Developer -- @hasanmisbah01
+
+# THANKS
+
+    Habib Rahman
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, jQuery, Modernizr, Normalize.css, Bootstrap
+    
+/* SITE */
+Created : 2020/11/05
+Last update: 2020/11/09
+Software: Visual Studio Code
